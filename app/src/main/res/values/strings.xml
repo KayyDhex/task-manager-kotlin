@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TasksManager</string>
+    <string name="channel_name">task_channel</string>
+    <string name="channel_description">Canal para la app de Task Manager</string>
+</resources>
